@@ -1,8 +1,9 @@
 phplib_mvc
 ==========
 
-phplib+mvc思想，开发的一个开源项目，phplib也是一个php框架哦。<br />
+phplib+mvc思想，开发的开源项目，phplib也是一个php框架哦。<br />
 适合在windows、linux、mac系统上运行。<br />
+打造简单、易用、傻瓜化、智能化框架&平台
 
 
 ##【环境要求】 ##
