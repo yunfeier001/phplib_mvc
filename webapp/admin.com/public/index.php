@@ -11,4 +11,9 @@ switch (ENVIRONMENT)
 		break;
 }
 
+//初始化框架
+require dirname(dirname(dirname(__DIR__))) . '/phplib/_init.php';
+
 //todo
+
+echo 'index todo...';
